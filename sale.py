@@ -1,1 +1,1 @@
-Kittipich Thanpattanakit
+print ('Kittipich Thanpattanakit')
